@@ -1,5 +1,5 @@
 # merge-practice
-Hi  
+Hello  
 Nice  
 To  
 Meet  
