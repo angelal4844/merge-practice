@@ -1,7 +1,7 @@
 # merge-practice
-Hi 
-nice 
-to 
-meet 
-you 
+Hi  
+Nice  
+To  
+Meet  
+You  
 :D
