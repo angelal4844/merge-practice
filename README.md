@@ -1,2 +1,7 @@
 # merge-practice
-Hi, nice to meet you :D
+Hi 
+nice 
+to 
+meet 
+you 
+:D
